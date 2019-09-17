@@ -1,0 +1,49 @@
+.body,
+html {
+    margin: 0;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.fox-university {
+    width: 80%;
+    margin: auto;
+    padding: 20px;
+    overflow: auto;
+}
+
+.fox-logo {
+    width: 25%;
+    float: left;
+    padding: 0px 20px;
+}
+
+.fox {
+    height: 60px;
+    width: 45%;
+    margin: 10px 0px;
+    background-color: black;
+}
+
+.university {
+    height: 30px;
+    width: 45%;
+    margin: 10px 0px;
+    overflow: auto;
+    background-color: black;
+}
+.icon{
+    height: 30px;
+    width: 12%;
+    float: left;
+    background-color: red;
+    margin: 40px 0px;
+}
+.email-box{
+    width: 30%;
+    float: left;
+    background-color: black;
+    margin: 10px 20px;
+}
