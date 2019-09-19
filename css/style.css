@@ -129,7 +129,7 @@ html {
 }
 
 .main-page {
-    background-color: coral;
+    background-color: #c88967;
     width: 100%;
 }
 
@@ -224,15 +224,90 @@ html {
 .offer-container {
     width: 80%;
     margin: auto;
+    overflow: auto;
 }
 
 .offer-box1 {
     width: 60%;
+    float: left;
+}
+
+.offer-details {
+    width: 92%;
 }
 
 .what-offer {
-    height: 80px;
-    width: 50%;
+    height: 70px;
+    width: 45%;
     background-color: black;
     margin: 50px 0px;
+}
+
+.offer-para {
+    height: 120px;
+    width: 100%;
+    margin: 50px 0px;
+    background-color: gray;
+}
+
+offers {
+    width: 100%;
+    overflow: auto;
+    background-color: orangered;
+}
+
+.offer-1 {
+    width: 50%;
+    float: left;
+    overflow: auto;
+    margin: 20px 0px;
+    padding: 0px 10px;
+}
+
+.offer-icon {
+    width: 20%;
+    float: left;
+    background-color: #fd5f00;
+    padding: 5px;
+    margin: 35px 0px;
+}
+
+.offer-1-icon {
+    height: 35px;
+    width: 50%;
+    margin: 15px auto;
+    background-color: white;
+}
+
+.offer-1-box {
+    width: 80%;
+    float: left;
+    padding: 0px 20px;
+    margin: 10px 0px;
+}
+
+.offer-1-title {
+    height: 40px;
+    width: 60%;
+    background-color: black;
+    margin: 10px 0px;
+}
+
+.offer-1-para {
+    height: 120px;
+    width: 90%;
+    background-color: gray;
+}
+
+.offer-box-2 {
+    width: 40%;
+    float: left;
+    padding: 0px 10px;
+}
+
+.image {
+    height: 1100px;
+    width: 100%;
+    background-color: black;
+    margin: auto;
 }
