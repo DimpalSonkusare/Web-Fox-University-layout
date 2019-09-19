@@ -10,14 +10,13 @@ html {
 .fox-university {
     width: 80%;
     margin: auto;
-    padding: 20px;
     overflow: auto;
 }
 
 .fox-logo {
     width: 25%;
     float: left;
-    padding: 0px 20px;
+    padding: 25px 0px;
 }
 
 .fox {
@@ -34,16 +33,206 @@ html {
     overflow: auto;
     background-color: black;
 }
-.icon{
+
+.icon {
     height: 30px;
     width: 12%;
     float: left;
-    background-color: red;
+    background-color: #fd5f00;
     margin: 40px 0px;
 }
-.email-box{
-    width: 30%;
+
+.email-box {
+    width: 88%;
     float: left;
+    padding: 10px 20px;
+}
+
+.email {
+    height: 35px;
+    width: 40%;
     background-color: black;
-    margin: 10px 20px;
+}
+
+.email-id {
+    height: 45px;
+    width: 100%;
+    background-color: black;
+    margin: 20px 0px 0px 0px;
+}
+
+.apply-now {
+    width: 100%;
+    padding: 40px 0px 30px 107px;
+}
+
+.apply {
+    height: 50px;
+    width: 100%;
+    background-color: black;
+}
+
+.menubar {
+    width: 80%;
+    padding: 10px 20px;
+    background-color: #0d1128;
+    margin: auto;
+    overflow: auto;
+}
+
+.menus {
+    width: 10%;
+    float: left;
+    overflow: auto;
+}
+
+.menu {
+    width: 100%;
+    float: left;
+    padding: 25px 10px;
+}
+
+.home {
+    height: 35px;
+    width: 80%;
+    background-color: #fd5f00;
+}
+
+.search-box {
+    width: 30%;
+    background-color: white;
+    float: right;
+    padding: 1px;
+}
+
+.search-menu {
+    width: 100%;
+    overflow: auto;
+    padding: 5px;
+    background-color: #0d1128;
+}
+
+.search {
+    height: 40px;
+    width: 35%;
+    float: left;
+    margin: 15px 20px;
+    background-color: white;
+}
+
+.search-icon {
+    height: 30px;
+    background-color: white;
+    width: 9%;
+    margin: 20px 15px;
+    float: right;
+}
+
+.main-page {
+    background-color: coral;
+    width: 100%;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+    padding: 50px 0px;
+    overflow: auto;
+}
+
+.block {
+    height: 430px;
+    width: 50%;
+    float: left;
+    margin: 120px 0px;
+}
+
+.education {
+    height: 70px;
+    width: 90%;
+    margin: 20px 0px;
+    background-color: white;
+}
+
+.para {
+    height: 70px;
+    width: 100%;
+    background-color: white;
+    margin: 40px 0px;
+}
+
+.contact-us {
+    width: 30%;
+    padding: 20px;
+    background-color: #fd5f00;
+}
+
+.contact-button {
+    height: 40px;
+    width: 100%;
+    background-color: white;
+}
+
+.qualities {
+    width: 100%;
+}
+
+.item {
+    width: 25%;
+    float: left;
+    padding: 50px 40px;
+}
+
+.quality-1 {
+    background-color: #fd5f00;
+}
+
+.quality-2 {
+    background-color: #0d1128;
+}
+
+.quality-container {
+    width: 100%;
+    margin: auto;
+}
+
+.quality-icon {
+    height: 50px;
+    width: 18%;
+    background-color: white;
+    margin: auto;
+}
+
+.quality-name {
+    height: 35px;
+    width: 75%;
+    margin: 30px auto;
+    background-color: white;
+}
+
+.quality-para {
+    height: 120px;
+    width: 100%;
+    background-color: white;
+    margin: auto;
+}
+
+.offer-page {
+    width: 100%;
+}
+
+.offer-container {
+    width: 80%;
+    margin: auto;
+}
+
+.offer-box1 {
+    width: 60%;
+}
+
+.what-offer {
+    height: 80px;
+    width: 50%;
+    background-color: black;
+    margin: 50px 0px;
 }
