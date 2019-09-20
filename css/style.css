@@ -391,18 +391,20 @@ offers {
     padding: 40px 0px 0px 0px;
 }
 
-.first{
+.first {
     width: 25%;
     float: left;
 }
-.number{
+
+.number {
     height: 60px;
     width: 25%;
     margin: 30px auto;
     background-color: white;
 }
-.students{
-    height:30px;
+
+.students {
+    height: 30px;
     width: 60%;
     background-color: white;
     margin: 20px auto;
