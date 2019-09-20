@@ -308,6 +308,102 @@ offers {
 .image {
     height: 1100px;
     width: 100%;
-    background-color: black;
+    background-color: darkkhaki;
     margin: auto;
+}
+
+.university-details {
+    background-color: #ec592c;
+    width: 100%;
+    padding: 150px 0px;
+    overflow: auto;
+}
+
+.details-container {
+    width: 80%;
+    margin: auto;
+}
+
+.university-image {
+    width: 50%;
+    float: left;
+    padding: 20px 40px 20px 0px;
+}
+
+.university-detail {
+    width: 50%;
+    float: left;
+    padding: 20px 0px 20px 40px;
+}
+
+.un-image {
+    height: 400px;
+    width: 100%;
+    overflow: auto;
+    background-color: lightgray;
+}
+
+.play-button {
+    height: 60px;
+    width: 12%;
+    background-color: white;
+    margin: 170px auto;
+    overflow: auto;
+}
+
+.play {
+    height: 30px;
+    width: 50%;
+    background-color: #fd5f00;
+    margin: 15px auto;
+}
+
+.un-detail {
+    width: 100%;
+    padding: 20px 0px;
+}
+
+.uni-name {
+    height: 60px;
+    width: 60%;
+    margin: 10px 0px 20px 0px;
+    background-color: white;
+}
+
+.para-1 {
+    height: 150px;
+    width: 98%;
+    margin: 20px 0px 20px 0px;
+    background-color: white;
+}
+
+.para-2 {
+    height: 100px;
+    width: 98%;
+    background-color: white;
+    margin: 20px 0px 0px 0px;
+}
+
+.items {
+    width: 100%;
+    margin: auto;
+    overflow: auto;
+    padding: 40px 0px 0px 0px;
+}
+
+.first{
+    width: 25%;
+    float: left;
+}
+.number{
+    height: 60px;
+    width: 25%;
+    margin: 30px auto;
+    background-color: white;
+}
+.students{
+    height:30px;
+    width: 60%;
+    background-color: white;
+    margin: 20px auto;
 }
