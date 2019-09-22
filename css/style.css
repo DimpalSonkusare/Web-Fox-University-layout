@@ -409,3 +409,203 @@ offers {
     background-color: white;
     margin: 20px auto;
 }
+
+.courses {
+    width: 100%;
+    margin: 150px auto;
+}
+
+.course-container {
+    width: 80%;
+    margin: 140px auto;
+}
+
+.course-detail {
+    width: 100%;
+    margin: auto;
+}
+
+.our-course {
+    height: 80px;
+    width: 35%;
+    background-color: black;
+    margin: 0px auto 40px;
+}
+
+.course-para {
+    height: 75px;
+    width: 80%;
+    margin: 0px auto 0px;
+    background-color: gray;
+}
+
+.course-block {
+    width: 100%;
+    overflow: auto;
+    padding: 20px;
+}
+
+.course {
+    width: 25%;
+    float: left;
+    padding: 10px;
+}
+
+.course-image {
+    height: 320px;
+    width: 100%;
+    background-color: black;
+}
+
+.name-containers {
+    width: 100%;
+    overflow: auto;
+    margin: 20px 0px;
+}
+
+.name-container {
+    width: 33.33%;
+    float: left;
+    overflow: auto;
+}
+
+.name-icon {
+    height: 15px;
+    width: 10%;
+    float: left;
+    margin: 0px 8px 0px 0px;
+    background-color: #fd5f00;
+}
+
+.mr-khan {
+    height: 15px;
+    width: 60%;
+    float: left;
+    padding: 0px 5px;
+    background-color: gray;
+}
+
+.engineering-container {
+    width: 100%;
+}
+
+.ec {
+    height: 50px;
+    width: 65%;
+    background-color: black;
+}
+
+.ec-para {
+    height: 150px;
+    width: 95%;
+    background-color: gray;
+    margin: 10px 0px;
+}
+
+.apply-button {
+    width: 40%;
+    background-color: #fd5f00;
+    padding: 10px;
+    margin: 20px 0px;
+}
+
+.apply {
+    height: 40px;
+    width: 85%;
+    margin: 5px auto;
+    background-color: white;
+}
+
+.about-teachers {
+    width: 100%;
+    overflow: auto;
+}
+
+.about-teacher {
+    width: 25%;
+    float: left;
+    padding: 20px;
+}
+
+.teacher-image {
+    height: 350px;
+    width: 100%;
+    background-color: #a9587c;
+}
+.teacher-detail{
+    width: 100%;
+}
+.teacher-name{
+    height: 40px;
+    width: 60%;
+    margin: 15px auto;
+    background-color: black;
+}
+.teacher{
+    height: 25px;
+    width: 30%;
+    margin: 10px auto;
+    background-color: #fd5f00;
+}
+.teacher-para{
+    height: 100px;
+    width: 100%;
+    margin: 20px auto;
+    background-color: grey;
+}
+.quote{
+    width: 100%;
+    background-color: #a36648;
+}
+.quote-container{
+    width: 80%;
+    margin: auto;
+    overflow: auto;
+}
+.request-block{
+    width: 40%;
+    margin: 120px 150px;
+    float: right;
+}
+.req-quote{
+    height: 50px;
+    width: 70%;
+    background-color:white;
+}
+.req-para{
+    height: 100px;
+    width: 100%;
+    margin: 50px 0px;
+    background-color: antiquewhite;
+}
+.info{
+    width: 100%;
+    overflow: auto;
+}
+.info-1{
+    width: 50%;
+    padding: 10px;
+    float: left;
+    margin: 40px 0px 0px 0px;
+}
+.first-name{
+    height: 40px;
+    width: 55%;
+    background-color: antiquewhite;
+}
+.underline{
+    height: 1px;
+    width: 100%;
+    margin: 25px 0px;
+    background-color: antiquewhite;
+}
+.request-a-quote{
+    padding: 15px;
+    background-color: #fd5f00;
+}
+.request-button{
+    height: 40px;
+    width: 100%;
+    margin: auto;
+    background-color: white;
+}
