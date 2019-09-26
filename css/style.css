@@ -42,19 +42,19 @@ html {
     margin: 40px 0px;
 }
 
-.email-box {
+.header-email-box {
     width: 88%;
     float: left;
     padding: 10px 20px;
 }
 
-.email {
+.header-email {
     height: 35px;
     width: 40%;
     background-color: black;
 }
 
-.email-id {
+.header-email-id {
     height: 45px;
     width: 100%;
     background-color: black;
@@ -63,13 +63,14 @@ html {
 
 .apply-now {
     width: 100%;
-    padding: 40px 0px 30px 107px;
+    padding: 15px 0px;
 }
 
-.apply {
+.apply-button {
     height: 50px;
-    width: 100%;
-    background-color: black;
+    width: 50%;
+    margin: 20px 0px 0px 80px;
+    background-color: #fd5f00;
 }
 
 .menubar {
@@ -92,7 +93,7 @@ html {
     padding: 25px 10px;
 }
 
-.home {
+.home-menu {
     height: 35px;
     width: 80%;
     background-color: #fd5f00;
@@ -502,14 +503,14 @@ offers {
     margin: 10px 0px;
 }
 
-.apply-button {
+.ec-apply-button {
     width: 40%;
     background-color: #fd5f00;
     padding: 10px;
     margin: 20px 0px;
 }
 
-.apply {
+.ec-apply {
     height: 40px;
     width: 85%;
     margin: 5px auto;
@@ -532,80 +533,450 @@ offers {
     width: 100%;
     background-color: #a9587c;
 }
-.teacher-detail{
+
+.teacher-detail {
     width: 100%;
 }
-.teacher-name{
+
+.teacher-name {
     height: 40px;
     width: 60%;
     margin: 15px auto;
     background-color: black;
 }
-.teacher{
+
+.teacher {
     height: 25px;
     width: 30%;
     margin: 10px auto;
     background-color: #fd5f00;
 }
-.teacher-para{
+
+.teacher-para {
     height: 100px;
     width: 100%;
     margin: 20px auto;
     background-color: grey;
 }
-.quote{
+
+.quote {
     width: 100%;
     background-color: #a36648;
 }
-.quote-container{
+
+.quote-container {
     width: 80%;
     margin: auto;
     overflow: auto;
 }
-.request-block{
+
+.request-block {
     width: 40%;
     margin: 120px 150px;
     float: right;
 }
-.req-quote{
+
+.req-quote {
     height: 50px;
     width: 70%;
-    background-color:white;
+    background-color: white;
 }
-.req-para{
+
+.req-para {
     height: 100px;
     width: 100%;
     margin: 50px 0px;
     background-color: antiquewhite;
 }
-.info{
+
+.info {
     width: 100%;
     overflow: auto;
 }
-.info-1{
+
+.info-1 {
     width: 50%;
     padding: 10px;
     float: left;
     margin: 40px 0px 0px 0px;
 }
-.first-name{
+
+.first-name {
     height: 40px;
     width: 55%;
     background-color: antiquewhite;
 }
-.underline{
+
+.underline {
     height: 1px;
     width: 100%;
     margin: 25px 0px;
     background-color: antiquewhite;
 }
-.request-a-quote{
+
+.request-a-quote {
     padding: 15px;
     background-color: #fd5f00;
 }
-.request-button{
+
+.request-button {
     height: 40px;
     width: 100%;
     margin: auto;
     background-color: white;
+}
+
+.blog-block {
+    width: 100%;
+}
+
+.blog-container {
+    width: 80%;
+    margin: 120px auto;
+    border-color: lightgray;
+}
+
+.recent-blog {
+    width: 100%;
+}
+
+.blog-title {
+    height: 80px;
+    width: 40%;
+    background-color: black;
+    margin: 50px auto;
+}
+
+.blog-para {
+    height: 100px;
+    width: 70%;
+    background-color: gray;
+    margin: 50px auto;
+}
+
+.blog-details {
+    width: 100%;
+    overflow: auto;
+    background-color: gainsboro;
+}
+
+.detail-1 {
+    width: 33.33%;
+    background-color: white;
+    padding: 25px;
+    float: left;
+}
+
+.details {
+    width: 100%;
+    background-color: gainsboro;
+}
+
+.detail-image {
+    height: 350px;
+    width: 100%;
+    background-color: lightskyblue;
+}
+
+.image-detail {
+    width: 100%;
+    padding: 30px;
+}
+
+.image-title {
+    height: 50px;
+    width: 100%;
+    background-color: black;
+    margin: 0px 0px 20px 0px;
+}
+
+.image-para {
+    height: 150px;
+    width: 100%;
+    background-color: gray;
+    margin: 20px 0px;
+}
+
+.buttons {
+    width: 100%;
+    overflow: auto;
+}
+
+.read-button {
+    width: 30%;
+    float: left;
+    background-color: #fd5f00;
+    padding: 10px;
+}
+
+.read-more {
+    height: 25px;
+    width: 100%;
+    background-color: white;
+}
+
+.admin {
+    height: 25px;
+    width: 30%;
+    float: left;
+    margin: 10px 0px 0px 20px;
+    background-color: #fd5f00;
+}
+
+.msg-icon {
+    height: 20px;
+    width: 10%;
+    float: right;
+     margin: 10px 0px 0px 10px;
+    background-color: gray;
+}
+
+.feed-back {
+    width: 100%;
+}
+
+.feedback-container {
+    width: 80%;
+    margin: 120px auto;
+}
+
+.students-review {
+    height: 100px;
+    width: 60%;
+    background-color: black;
+    margin: 40px auto;
+}
+
+.review-para {
+    height: 100px;
+    width: 80%;
+    margin: auto;
+    background-color: darkgray;
+}
+
+.review-box {
+    width: 70%;
+    margin: 100px auto;
+    overflow: auto;
+}
+
+.student-img {
+    width: 20%;
+    float: left;
+}
+
+.student-image {
+    height: 150px;
+    width: 100%;
+    background-color: lightblue;
+    margin: 0px 20px 0px 20px;
+}
+
+.feedback {
+    width: 60%;
+    float: left;
+    margin: 0px 50px;
+}
+
+.feedback-para {
+    height: 120px;
+    width: 80%;
+    background-color: black;
+}
+
+.student-name {
+    height: 30px;
+    width: 30%;
+    background-color: black;
+    margin: 20px 0px;
+}
+
+.mother {
+    height: 30px;
+    width: 20%;
+    background-color: #fd5f00;
+}
+
+.vertical-slide-menu {
+    width: 20%;
+    margin: auto;
+    overflow: auto;
+    padding: 20px;
+}
+
+.circle-box {
+    width: 20%;
+    float: left;
+    padding: 10px;
+}
+
+.circle {
+    height: 20px;
+    width: 100%;
+    background-color: gray;
+}
+
+.images- {
+    width: 100%;
+    overflow: auto;
+    background-color: black;
+}
+
+.first-image {
+    height: 350px;
+    width: 25%;
+    float: left;
+    background-color: blanchedalmond;
+}
+
+.second-image {
+    height: 350px;
+    width: 25%;
+    float: left;
+    background-color: cornflowerblue;
+}
+
+.footer-box {
+    width: 100%;
+    overflow: auto;
+    background-color: #232323;
+}
+
+.footer-container {
+    width: 80%;
+    overflow: auto;
+    margin: 100px auto;
+}
+
+.box {
+    width: 25%;
+    float: left;
+    padding: 10px;
+}
+
+.box-title {
+    height: 50px;
+    width: 60%;
+    background-color: white;
+}
+
+.add {
+    width: 100%;
+    overflow: auto;
+}
+
+.add-icon {
+    height: 30px;
+    width: 8%;
+    float: left;
+    background-color: white;
+    margin: 20px 10px 0px 0px;
+}
+
+.address {
+    height: 50px;
+    float: left;
+    width: 70%;
+    margin: 20px 0px 0px 20px;
+    background-color: gray;
+}
+
+.ph-num {
+    height: 30px;
+    width: 40%;
+    background-color: white;
+    float: left;
+    margin: 20px 20px;
+}
+
+.email {
+    height: 30px;
+    width: 60%;
+    background-color: white;
+    float: left;
+    margin: 20px 20px;
+}
+
+.img {
+    height: 75px;
+    width: 25%;
+    float: left;
+    background-color: skyblue;
+    margin: 20px 20px 20px 0px;
+}
+
+.img-detail {
+    width: 60%;
+    float: left;
+}
+
+.img-title {
+    height: 100px;
+    width: 90%;
+    background-color: white;
+    margin: 20px 0px;
+}
+
+.date {
+    height: 20px;
+    width: 80%;
+    margin: 10px 0px;
+    background-color: gray;
+}
+
+.links {
+    width: 35%;
+    margin: 20px 0px;
+}
+
+.home {
+    height: 25px;
+    width: 100%;
+    background-color: gray;
+    margin: 10px 0px;
+}
+
+.footer-email-box {
+    width: 100%;
+    background-color: gray;
+    margin: 20px 0px 0px 0px ;
+    padding: 15px 0px;
+}
+
+.email-add {
+    height: 30px;
+    width: 70%;
+    margin: auto;
+    background-color: white;
+}
+.connect{
+    height: 50px;
+    width: 80%;
+    background-color: white;
+    margin: 70px 0px 10px 0px;
+}
+
+.fb-icon {
+    width: 20%;
+    float: left;
+    overflow: auto;
+    padding: 10px;
+}
+
+.fb {
+    width: 100%;
+    float: left;
+    padding: 8px;
+    background-color: dimgray;
+}
+.twitter{
+    height: 20px;
+    width: 100%;
+    background-color: white;
+}
+.copyright-content {
+    height: 20px;
+    width: 40%;
+    margin: 120px auto;
+    background-color: gray;
 }
